@@ -1,5 +1,6 @@
 # Recruit
 Have you ever heard NEO team? Are you interested in Robots? Come and join us!<br>
+What you need to do is downloading the template and filling it out, then upload to our mailbox group.<br>
 The resume template is used as follows:<br>
 (This tutorial is suitable for operation on the computer side, the mobile phone side is more troublesome)
 
