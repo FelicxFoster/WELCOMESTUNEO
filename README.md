@@ -1,6 +1,6 @@
 # Recruit
-Have you ever heard NEO team? Are you interested in Robots? Come and join us!\<br>
-The resume template is used as follows:\<br>
+Have you ever heard NEO team? Are you interested in Robots? Come and join us!<br>
+The resume template is used as follows:<br>
 (This tutorial is suitable for operation on the computer side, the mobile phone side is more troublesome)
 
 ## 1. Requirements
