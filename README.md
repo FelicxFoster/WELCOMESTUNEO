@@ -16,7 +16,7 @@ Download the package and place it in your laptop.
 
 ## 3. Usage
 1- Open the NEO.html with Google Chrome or Firefox.
-
+![Operation step 2](https://github.com/FelicxFoster/We-Want-You/blob/master/img/2.png)
 
 2- Fill in the personal information according to the above picture.
 
