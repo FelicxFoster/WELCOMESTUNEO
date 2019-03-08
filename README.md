@@ -13,3 +13,13 @@ The package has been tested on both Windows and Linux. The following requirement
 ## 2. Installation
 Download the package and place it in your laptop.
 
+## 2. Usage
+1- Open the NEO.html with Google Chrome or Firefox.
+
+
+2- Fill in the personal information according to the above picture.
+
+3- Printed in pdf electronic version.
+
+4- Upload to mailbox group.
+
