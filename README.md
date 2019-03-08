@@ -12,8 +12,9 @@ The package has been tested on both Windows and Linux. The following requirement
 
 ## 2. Installation
 Download the package and place it in your laptop.
+![Operation step 1](https://github.com/FelicxFoster/We-Want-You/blob/master/img/1.png)
 
-## 2. Usage
+## 3. Usage
 1- Open the NEO.html with Google Chrome or Firefox.
 
 
