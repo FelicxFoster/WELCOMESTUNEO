@@ -23,5 +23,5 @@ Download the package and place it in your laptop.
 
 3- Printed in pdf electronic version.
 
-4- Upload to mailbox group(stuneo009@gmail.com).
+4- Send your recruit to mailbox group(stuneo009@gmail.com).
 
